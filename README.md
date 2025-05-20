@@ -34,7 +34,7 @@
 - JavaScript
 - Netlify
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5a932768-478e-46b5-9fac-59234bacc3ae/deploy-status)](https://app.netlify.com/projects/escaan-gw/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb5a6c85-92b3-4650-868d-071d22e8b8f8/deploy-status)](https://app.netlify.com/projects/link-share-js-gw/deploys)
 
 ## Contact
 
