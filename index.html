@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Link Sharing App with Categories & QR</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <h1>📎 Link Sharing App</h1>
+
+  <form id="linkForm">
+    <input type="text" id="titleInput" placeholder="Title" required />
+    <input type="url" id="urlInput" placeholder="https://example.com" required />
+    <input type="text" id="categoryInput" placeholder="Category (e.g. Work, News)" />
+    <button type="submit">Add</button>
+  </form>
+
+  <input type="text" id="searchInput" placeholder="Search by title or category..." />
+
+  <div id="linkList"></div>
+
+  <script src="./main.js"></script>
+
+</body>
+</html>
